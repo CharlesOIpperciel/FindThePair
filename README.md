@@ -1,5 +1,7 @@
 # Find The Pairs
 
+**Live demo available on my website @CharlesOIpperciel.github.io for demonstration purposes.**
+
 This is a simple memory match game implemented using HTML, CSS, and JavaScript.
 
 ## How to Play
@@ -17,16 +19,6 @@ This is a simple memory match game implemented using HTML, CSS, and JavaScript.
 - Winning condition check to alert the player when all pairs have been matched.
 - Responsive design for various screen sizes.
 
-## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
-
-
-## Credits
-
-- Animal icons provided by Unicode.
-- Shuffle algorithm inspired by the Fisher-Yates shuffle.
 
 
