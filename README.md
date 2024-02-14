@@ -19,6 +19,10 @@ This is a simple memory match game implemented using HTML, CSS, and JavaScript.
 - Winning condition check to alert the player when all pairs have been matched.
 - Responsive design for various screen sizes.
 
+## Contact
+
+For inquiries or questions, please contact: ippc2001@usherbrooke.ca
+
 
 
 
