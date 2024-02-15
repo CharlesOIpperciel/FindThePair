@@ -21,7 +21,7 @@ This is a simple memory match game implemented using HTML, CSS, and JavaScript.
 
 ## Contact
 
-For inquiries or questions, please contact: ippc2001@usherbrooke.ca
+For questions, please contact: ippc2001@usherbrooke.ca
 
 
 
