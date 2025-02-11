@@ -1,7 +1,5 @@
 # Find The Pairs
 
-**Live demo available on my website @CharlesOIpperciel.github.io for demonstration purposes.**
-
 This is a simple memory match game implemented using HTML, CSS, and JavaScript.
 
 ## How to Play
@@ -21,7 +19,7 @@ This is a simple memory match game implemented using HTML, CSS, and JavaScript.
 
 ## Contact
 
-For questions, please contact: ippc2001@usherbrooke.ca
+For questions, please contact: charlesolivieripperciel@gmail.com
 
 
 
