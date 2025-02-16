@@ -1,26 +1,14 @@
-# Find The Pairs
+# Find The Pairs 🃏  
 
-This is a simple memory match game implemented using HTML, CSS, and JavaScript.
+Find The Pairs is a simple memory match game built with HTML, CSS, and JavaScript. It was previously available on my portfolio 1.0 but is no longer featured in my new portfolio 2.0, as it is an older project.  
 
-## How to Play
+## Features  
 
-1. Clone the repository to your local machine.
-2. Open the `index.html` file in your web browser.
-3. Select the number of cards you want to play with from the dropdown menu.
-4. Click on the cards to reveal them and try to match pairs of identical cards.
-5. The game ends when all pairs have been matched.
+- **Dynamic Grid Layout**: Adjusts based on the number of selected cards.  
+- **Randomized Gameplay**: Animal icons are shuffled for each game.  
+- **Win Detection**: Alerts the player when all pairs are matched.  
+- **Responsive Design**: Optimized for various screen sizes.  
 
-## Features
+## Contact  
 
-- Dynamic grid layout based on the number of cards selected.
-- Random shuffling of animal icons for each game.
-- Winning condition check to alert the player when all pairs have been matched.
-- Responsive design for various screen sizes.
-
-## Contact
-
-For questions, please contact: charlesolivieripperciel@gmail.com
-
-
-
-
+For any questions, feel free to reach out at: **charlesolivieripperciel@gmail.com**  
